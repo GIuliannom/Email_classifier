@@ -1,0 +1,12 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "c97d2a3f0bce060e336b8ec57acd6a5e1e75ad3ec322cfbd5b47a6682d18b209"
+build_start_time: [1792536045, 752269000]
+build_end_time: [1792536049, 490397000]
+inputs:
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/AddEvent.swift": [1792536044, 766083770]
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/Chat.swift": [1792509614, 147294898]
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/Compose.swift": [1792508313, 369361196]
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/EmailAIApp.swift": [1792508486, 585824359]
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/Engine.swift": [1792509590, 292217654]
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/MailWindow.swift": [1792536044, 853416667]
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/MenuView.swift": [1792509629, 537406257]

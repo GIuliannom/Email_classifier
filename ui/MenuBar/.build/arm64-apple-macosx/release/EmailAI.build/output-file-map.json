@@ -1,0 +1,42 @@
+{
+  "": {
+    "dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/EmailAI.d",
+    "object": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/EmailAI.o",
+    "swift-dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/master.swiftdeps"
+  },
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/AddEvent.swift": {
+    "object": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/AddEvent.swift.o",
+    "swiftmodule": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/AddEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/AddEvent.swiftdeps"
+  },
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/Chat.swift": {
+    "object": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Chat.swift.o",
+    "swiftmodule": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Chat~partial.swiftmodule",
+    "swift-dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Chat.swiftdeps"
+  },
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/Compose.swift": {
+    "object": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Compose.swift.o",
+    "swiftmodule": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Compose~partial.swiftmodule",
+    "swift-dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Compose.swiftdeps"
+  },
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/EmailAIApp.swift": {
+    "object": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/EmailAIApp.swift.o",
+    "swiftmodule": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/EmailAIApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/EmailAIApp.swiftdeps"
+  },
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/Engine.swift": {
+    "object": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Engine.swift.o",
+    "swiftmodule": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Engine~partial.swiftmodule",
+    "swift-dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/Engine.swiftdeps"
+  },
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/MailWindow.swift": {
+    "object": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/MailWindow.swift.o",
+    "swiftmodule": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/MailWindow~partial.swiftmodule",
+    "swift-dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/MailWindow.swiftdeps"
+  },
+  "/Users/giu/Documents/email_LLM/ui/MenuBar/Sources/EmailAI/MenuView.swift": {
+    "object": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/MenuView.swift.o",
+    "swiftmodule": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/MenuView~partial.swiftmodule",
+    "swift-dependencies": "/Users/giu/Documents/email_LLM/ui/MenuBar/.build/arm64-apple-macosx/release/EmailAI.build/MenuView.swiftdeps"
+  }
+}
