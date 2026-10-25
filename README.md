@@ -7,6 +7,8 @@ sections, writes a daily summary per account, turns event emails into Google Cal
 **Privacy:** email content never leaves the Mac. The model runs locally in Ollama; the only network
 traffic is to Google (Gmail, Calendar, login). See [Data leaving the Mac](#data-leaving-the-mac).
 
+This was just a small project that I did using Claude Opus and Qwen 3.6.
+
 ## Setup
 
 1. **Google Cloud** (one time, free): create a project, enable the Gmail API and Google Calendar API,
